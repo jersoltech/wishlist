@@ -1,0 +1,22 @@
+ body{
+     background: rgb(9, 155, 135);
+ }
+ .container{
+     max-width: 500px;
+ }
+ input[type=text],
+ input[type=text]:focus{
+     color: #fff;
+     border: none;
+     background: rgba(0,0,0,0.5);
+     max-width: 500px;
+ }
+ .wishes li{
+     background: #e6f1828c;
+ }
+ .delete{
+     cursor: pointer;
+ }
+ .filtered{
+     display: none !important;
+ }
